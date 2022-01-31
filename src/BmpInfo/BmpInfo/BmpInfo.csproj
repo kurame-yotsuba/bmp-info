@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AssemblyName>bmpinfo</AssemblyName>
+		<RootNamespace>SwallowNest.BmpInfo</RootNamespace>
+		<Authors>kurame</Authors>
+		<Product>bmpinfo</Product>
+		<Version>0.1.0</Version>
+		<Copyright>Copyright © 2022</Copyright>
+		<PackageProjectUrl>https://github.com/kurame-yotsuba/bmp-info</PackageProjectUrl>
+		<Description>BMPファイルのヘッダ情報を表示するコンソールアプリケーション</Description>
+		<RepositoryUrl>https://github.com/kurame-yotsuba/bmp-info</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>
